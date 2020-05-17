@@ -44,7 +44,7 @@ https://github.com/vincentBoulanger/legal s’efforce de fournir sur le sitehttp
 
 Toutes les informations indiquées sur le sitehttps://github.com/vincentBoulanger/legalsont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le sitehttps://github.com/vincentBoulanger/legalne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.
 
-4. Limitations contractuelles sur les données techniques.
+### 4. Limitations contractuelles sur les données techniques.
 
 Le site utilise la technologie JavaScript.
 
@@ -55,7 +55,7 @@ L’objectif est d’apporter une prestation qui assure le meilleur taux d’acc
 
 https://github.com/vincentBoulanger/legal et l’hébergeur ne pourront être tenus responsables en cas de dysfonctionnement du réseau Internet, des lignes téléphoniques ou du matériel informatique et de téléphonie lié notamment à l’encombrement du réseau empêchant l’accès au serveur.
 
-5. Propriété intellectuelle et contrefaçons.
+### 5. Propriété intellectuelle et contrefaçons.
 
 https://github.com/vincentBoulanger/legal est propriétaire des droits de propriété intellectuelle et détient les droits d’usage sur tous les éléments accessibles sur le site internet, notamment les textes, images, graphismes, logos, vidéos, icônes et sons.
 Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de : https://github.com/vincentBoulanger/legal.
@@ -75,14 +75,14 @@ Des espaces interactifs (possibilité de poser des questions dans l’espace con
 
 Le Client est informé des réglementations concernant la communication marketing, la loi du 21 Juin 2014 pour la confiance dans l’Economie Numérique, la Loi Informatique et Liberté du 06 Août 2004 ainsi que du Règlement Général sur la Protection des Données (RGPD: n° 2016-679). 
 
-### 7.1 Responsables de la collecte des données personnelles
+#### 7.1 Responsables de la collecte des données personnelles
 
 Pour les Données Personnelles collectées dans le cadre de la création du compte personnel de l’Utilisateur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : vincent boulanger. https://github.com/vincentBoulanger/legalest représenté par vincent boulanger, son représentant légal
 
 En tant que responsable du traitement des données qu’il collecte, https://github.com/vincentBoulanger/legal s’engage à respecter le cadre des dispositions légales en vigueur. Il lui appartient notamment au Client d’établir les finalités de ses traitements de données, de fournir à ses prospects et clients, à partir de la collecte de leurs consentements, une information complète sur le traitement de leurs données personnelles et de maintenir un registre des traitements conforme à la réalité.
 Chaque fois que https://github.com/vincentBoulanger/legal traite des Données Personnelles, https://github.com/vincentBoulanger/legal prend toutes les mesures raisonnables pour s’assurer de l’exactitude et de la pertinence des Données Personnelles au regard des finalités pour lesquelles https://github.com/vincentBoulanger/legal les traite.
                
-7.2 Finalité des données collectées
+#### 7.2 Finalité des données collectées
                
 https://github.com/vincentBoulanger/legal est susceptible de traiter tout ou partie des données : 
 
@@ -96,7 +96,7 @@ pour mener des enquêtes de satisfaction facultatives sur https://github.com/vin
 
 https://github.com/vincentBoulanger/legal ne commercialise pas vos données personnelles qui sont donc uniquement utilisées par nécessité ou à des fins statistiques et d’analyses.
                
-7.3 Droit d’accès, de rectification et d’opposition
+#### 7.3 Droit d’accès, de rectification et d’opposition
                
 Conformément à la réglementation européenne en vigueur, les Utilisateurs de https://github.com/vincentBoulanger/legal disposent des droits suivants : 
                
@@ -121,7 +121,7 @@ Dans ce cas, l’Utilisateur doit indiquer les Données Personnelles qu’il sou
 
 Les demandes de suppression de Données Personnelles seront soumises aux obligations qui sont imposées à https://github.com/vincentBoulanger/legal par la loi, notamment en matière de conservation ou d’archivage des documents. Enfin, les Utilisateurs de https://github.com/vincentBoulanger/legal peuvent déposer une réclamation auprès des autorités de contrôle, et notamment de la CNIL (https://www.cnil.fr/fr/plaintes).
                
-7.4 Non-communication des données personnelles
+#### 7.4 Non-communication des données personnelles
 https://github.com/vincentBoulanger/legal s’interdit de traiter, héberger ou transférer les Informations collectées sur ses Clients vers un pays situé en dehors de l’Union européenne ou reconnu comme «non adéquat» par la Commission européenne sans en informer préalablement le client. Pour autant, https://github.com/vincentBoulanger/legal reste libre du choix de ses sous-traitants techniques et commerciaux à la condition qu’il présentent les garanties suffisantes au regard des exigences du Règlement Général sur la Protection des Données (RGPD: n° 2016-679).
 
 https://github.com/vincentBoulanger/legal s’engage à prendre toutes les précautions nécessaires afin de préserver la sécurité des Informations et notamment qu’elles ne soient pas communiquées à des personnes non autorisées. Cependant, si un incident impactant l’intégrité ou la confidentialité des Informations du Client est portée à la connaissance de https://github.com/vincentBoulanger/legal, celle-ci devra dans les meilleurs délais informer le Client et lui communiquer les mesures de corrections prises. Par ailleurs https://github.com/vincentBoulanger/legal ne collecte aucune «données sensibles».
@@ -130,25 +130,25 @@ Les Données Personnelles de l’Utilisateur peuvent être traitées par des fil
                 
 Dans la limite de leurs attributions respectives et pour les finalités rappelées ci-dessus, les principales personnes susceptibles d’avoir accès aux données des Utilisateurs de https://github.com/vincentBoulanger/legal sont principalement les agents de notre service client.
                 
- 8. Notification d’incident
+ ### 8. Notification d’incident
                 
 Quels que soient les efforts fournis, aucune méthode de transmission sur Internet et aucune méthode de stockage électronique n'est complètement sûre. Nous ne pouvons en conséquence pas garantir une sécurité absolue. 
                 Si nous prenions connaissance d'une brèche de la sécurité, nous avertirions les utilisateurs concernés afin qu'ils puissent prendre les mesures appropriées. Nos procédures de notification d’incident tiennent compte de nos obligations légales, qu'elles se situent au niveau national ou européen. Nous nous engageons à informer pleinement nos clients de toutes les questions relevant de la sécurité de leur compte et à leur fournir toutes les informations nécessaires pour les aider à respecter leurs propres obligations réglementaires en matière de reporting.
                 
 Aucune information personnelle de l'utilisateur du sitehttps://github.com/vincentBoulanger/legaln'est publiée à l'insu de l'utilisateur, échangée, transférée, cédée ou vendue sur un support quelconque à des tiers. Seule l'hypothèse du rachat de https://github.com/vincentBoulanger/legal et de ses droits permettrait la transmission des dites informations à l'éventuel acquéreur qui serait à son tour tenu de la même obligation de conservation et de modification des données vis à vis de l'utilisateur du sitehttps://github.com/vincentBoulanger/legal.
 
-Sécurité
+## Sécurité
 
 Pour assurer la sécurité et la confidentialité des Données Personnelles et des Données Personnelles de Santé, https://github.com/vincentBoulanger/legal utilise des réseaux protégés par des dispositifs standards tels que par pare-feu, la pseudonymisation, l’encryption et mot de passe. 
                
 Lors du traitement des Données Personnelles, https://github.com/vincentBoulanger/legalprend toutes les mesures raisonnables visant à les protéger contre toute perte, utilisation détournée, accès non autorisé, divulgation, altération ou destruction.
                
-9. Liens hypertextes « cookies » et balises (“tags”) internet
+### 9. Liens hypertextes « cookies » et balises (“tags”) internet
                 
 Le sitehttps://github.com/vincentBoulanger/legalcontient un certain nombre de liens hypertextes vers d’autres sites, mis en place avec l’autorisation de https://github.com/vincentBoulanger/legal. Cependant, https://github.com/vincentBoulanger/legal n’a pas la possibilité de vérifier le contenu des sites ainsi visités, et n’assumera en conséquence aucune responsabilité de ce fait.
                 Sauf si vous décidez de désactiver les cookies, vous acceptez que le site puisse les utiliser. Vous pouvez à tout moment désactiver ces cookies et ce gratuitement à partir des possibilités de désactivation qui vous sont offertes et rappelées ci-après, sachant que cela peut réduire ou empêcher l’accessibilité à tout ou partie des Services proposés par le site.
                 
- 9.1. « COOKIES »
+ #### 9.1. « COOKIES »
 
 Un « cookie » est un petit fichier d’information envoyé sur le navigateur de l’Utilisateur et enregistré au sein du terminal de l’Utilisateur (ex : ordinateur, smartphone), (ci-après « Cookies »). Ce fichier comprend des informations telles que le nom de domaine de l’Utilisateur, le fournisseur d’accès Internet de l’Utilisateur, le système d’exploitation de l’Utilisateur, ainsi que la date et l’heure d’accès. Les Cookies ne risquent en aucun cas d’endommager le terminal de l’Utilisateur.
                
@@ -166,7 +166,7 @@ Enfin, en cliquant sur les icônes dédiées aux réseaux sociaux Twitter, Faceb
                
 Ces types de cookies ne sont déposés sur vos terminaux qu’à condition que vous y consentiez, en continuant votre navigation sur le Site Internet ou l’application mobile de https://github.com/vincentBoulanger/legal. À tout moment, l’Utilisateur peut néanmoins revenir sur son consentement à ce que https://github.com/vincentBoulanger/legal dépose ce type de cookies.
                
-Article 9.2. BALISES (“TAGS”) INTERNET
+### Article 9.2. BALISES (“TAGS”) INTERNET
                
 https://github.com/vincentBoulanger/legal peut employer occasionnellement des balises Internet (également appelées « tags », ou balises d’action, GIF à un pixel, GIF transparents, GIF invisibles et GIF un à un) et les déployer par l’intermédiaire d’un partenaire spécialiste d’analyses Web susceptible de se trouver (et donc de stocker les informations correspondantes, y compris l’adresse IP de l’Utilisateur) dans un pays étranger.
                
@@ -176,7 +176,7 @@ Cette technologie permet à https://github.com/vincentBoulanger/legal d’évalu
                
 Le prestataire externe pourra éventuellement recueillir des informations sur les visiteurs du Site et d’autres sites Internet grâce à ces balises, constituer des rapports sur l’activité du Site à l’attention de https://github.com/vincentBoulanger/legal, et fournir d’autres services relatifs à l’utilisation de celui-ci et d’Internet.
                
-10. Droit applicable et attribution de juridiction.  
+### 10. Droit applicable et attribution de juridiction.  
                  
 Tout litige en relation avec l’utilisation du sitehttps://github.com/vincentBoulanger/legalest soumis au droit français. 
 En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de Lille
