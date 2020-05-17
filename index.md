@@ -1,7 +1,8 @@
 ## True Vote Mentions legales
 
 ## Définitions
-Client:tout professionnel ou personne physique capable au sens des articles 1123 et suivants du Code civil, ou personne morale, qui visite le Site objet des présentes conditions générales.
+Client:
+Tout professionnel ou personne physique capable au sens des articles 1123 et suivants du Code civil, ou personne morale, qui visite le Site objet des présentes conditions générales.
 Prestations et Services: https://github.com/vincentBoulanger/legal met à disposition des Clients:
 
 Contenu:Ensemble des éléments constituants l’information présente sur le Site, notamment textes – images – vidéos.
